@@ -6,20 +6,20 @@ service et contrôleur, ainsi que la réalisation de tests unitaires et la docum
 
 ## Configuration du projet Spring Boot
 
-Project : Maven Project
-Language : Java
-Spring Boot : dernière version stable proposée
-Group : com.example
-Artifact : student-management
-Packaging : Jar
-Java version : 8 ou supérieure
-Dependencies :
-Spring Web
-Spring Data JPA
-Spring Data REST
-Spring Boot DevTools
-Validation
-MySQL Driver
+##### Project : Maven Project
+##### Language : Java
+##### Spring Boot : dernière version stable proposée
+##### Group : com.example
+##### Artifact : student-management
+##### Packaging : Jar
+##### Java version : 8 ou supérieure
+##### Dependencies :
+		Spring Web
+		Spring Data JPA
+		Spring Data REST
+		Spring Boot DevTools
+		Validation
+		MySQL Driver
 
 ## Tester les endpoints REST
 
