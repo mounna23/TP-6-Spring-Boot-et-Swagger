@@ -4,6 +4,23 @@
 Apprendre à créer pas à pas une application Spring Boot complète, incluant la génération du projet, la configuration d’une base de données MySQL, le développement des couches modèle, 
 service et contrôleur, ainsi que la réalisation de tests unitaires et la documentation automatique de l’API.
 
+## Configuration du projet Spring Boot
+
+Project : Maven Project
+Language : Java
+Spring Boot : dernière version stable proposée
+Group : com.example
+Artifact : student-management
+Packaging : Jar
+Java version : 8 ou supérieure
+Dependencies :
+Spring Web
+Spring Data JPA
+Spring Data REST
+Spring Boot DevTools
+Validation
+MySQL Driver
+
 ## Tester les endpoints REST
 
 <img width="981" height="658" alt="Capture d’écran 2025-10-24 à 22 43 12" src="https://github.com/user-attachments/assets/96b0720a-4b8e-442b-90b3-6dbf0f2a8bef" />
